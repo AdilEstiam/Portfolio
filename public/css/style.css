@@ -1,0 +1,162 @@
+
+html, body {
+
+    height: 100%;
+}
+
+body {
+
+    display: flex;
+    flex-direction: column;
+    background-color:#fff;
+    
+}
+
+footer {
+
+    margin-top: auto;
+}
+/* profile */
+
+.inset a img {
+
+    width: 40px;
+    height: 40px;
+    background-color: transparent !important;
+    z-index: 999;
+    margin-left: 40px;
+}
+
+.inset img {
+
+    width: 40px;
+    height: 40px;
+    background-color: transparent !important;
+    z-index: 999;
+    margin-left: 40px;
+    border-radius: inherit;
+    width: inherit;
+    height: inherit;
+    display: block;
+    position: relative;
+    z-index: 998;
+}
+
+.profile-img img {
+
+    width: 80px;
+    height: 80px;
+}
+
+.profile-name {
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container-fluid {
+
+    text-align: justify;
+}
+
+.content {
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.post-content {
+
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+
+.date {
+
+    color: #565856;
+}
+
+.username {
+
+    font-weight: bold;
+    font-size: 20px;
+    color: #6633CC;
+}
+
+.btn {
+
+    margin-top: 20px;
+    margin-right: 10px;
+
+}
+.btn2 {
+
+    margin-top: 20px;
+    margin-right: 10px;
+
+}
+
+.img-vignette {
+
+    margin-top: 0px;
+}
+
+.article {
+
+    margin-top: 50px;
+
+}
+
+h4 {
+
+    margin: 50px;
+    text-align: center;
+}
+
+.comment {
+
+    border-color: #EAEDED;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+    background-color: #EAEDED;
+}
+
+.center {
+
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color:#fff;
+}
+
+form {
+
+    margin-bottom: 50px;
+}
+
+input {
+    max-width:max;
+}
+
+/* home page text */
+
+.home {
+
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/*
+#rc-imageselect,.g-recaptcha {
+    transform:scale(0.77);
+    -webkit-transform:scale(0.77);
+    transform-origin:0 0;
+    -webkit-transform-origin:0 0;
+}
+*/
